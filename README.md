@@ -31,7 +31,7 @@ misses, a bonus for each level cleared, `+150` for landing on the island and
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/parachute-deluxe.git
+git clone https://github.com/AlessandroDellAcqua/parachute-deluxe.git
 cd parachute-deluxe
 pip install -r requirements.txt
 python Parachute_Deluxe.py
